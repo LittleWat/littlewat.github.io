@@ -1,10 +1,17 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  name: The University of Tokyo
+  dates: 2016 - 2018
+  qualification: M.S. Mechano-Informatics
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    I was a member at [machine intelligence (Harada) Lab. 
+    ](https://www.mi.t.u-tokyo.ac.jp/en/), where I researched in Computer Vision. 
+    Mainly I worked on [domain adaption](https://www.mi.t.u-tokyo.ac.jp/research/domain_adaptation/) and [infrared image recognition](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/) and [published some papers](https://scholar.google.co.jp/citations?user=lejuP2AAAAAJ).
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+- layout: left
+  name: The University of Tokyo
+  dates: 2012 - 2016
+  qualification: B.S. Machano-Informatics 
+  description: | # this will include new lines to allow paragraphs
+    I was a member at [machine intelligence in UbiComp (Shimosaka) Lab.](http://www.miubiq.cs.titech.ac.jp/), where I researched in IoT. Specifically, we developed a human activity recognition system in smart-home utilizing multi kinds of data gained from smartwatches, beacons, and electric energy meters.
+
+    I spent a lot of my free time as [a mechanical engineering member](http://www.t.u-tokyo.ac.jp/eng/engpower/features/making/) of [RoboTech (Robot Contest) Club](https://tuk.t.u-tokyo.ac.jp/robotech/)

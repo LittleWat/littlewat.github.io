@@ -4,12 +4,12 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Kohei Watanabe
-title: Fullstack Developer & (Past) Machine Learing Researcher 
+title: Fullstack Developer & (Past) Machine Learning Researcher
 email: littlewat.dev@gmail.com
 # website: https://github.com/LittleWat
 
 # Social links
-github_username:  LittleWat
+github_username: LittleWat
 stackoverflow_username: "5986291"
 linkedin_username: kohei-watanabe-73990010b
 twitter_username: humilittle
@@ -29,10 +29,11 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name's Kohei and I'm a fullstack developer (mobile apps, spring boot, nodejs, python, etc...).
-  As well as developing mobile apps, I also have experience research in machine learning filed. [Here is my publications.](https://scholar.google.co.jp/citations?user=lejuP2AAAAAJ)
-  I am passionate to learn new things and like to share the knowlegde.
+  As well as developing mobile apps, I also have experience research in machine learning filed. 
+  I am passionate to learn new things and like to share the knowledge.
+  `Refactoring`, `TDD`, `DDD` interests me a lot.
 
-  I am most skilled in: <mark>iOS App Development</mark>, <mark>Data Analysis (includes Deep Learning)</mark>, <mark>AWS</mark> and <mark>Eating Ramen🍜</mark>
+  I am most skilled in: <mark>iOS App Development</mark>, <mark>Data Analysis (includes Deep Learning)</mark>, <mark>AWS</mark> and <mark>Eating Ramen🍜</mark>.
 
 # Projects Section
 # projects_title: Projects
@@ -46,14 +47,13 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  I used to learn machine engineering and [worked in a Robot Contest Team as a mechanical engineer](http://www.t.u-tokyo.ac.jp/eng/engpower/features/making/).
 
   Alongside my interests in software engineering some of my other interests and hobbies are:
    - Shogi (3-dan)
-   - Jogging (attended Aume Marathon)
+   - Jogging (attended `Oume` Marathon)
    - Netflix
 
-# Footer
+# Footers
 footer_show_references: true
 
 # Build settings
@@ -64,6 +64,6 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
 theme: jekyll-theme-cayman
