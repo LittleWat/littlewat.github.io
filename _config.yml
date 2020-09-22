@@ -28,7 +28,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name's Kohei and I'm a fullstack developer (mobile apps, spring boot, nodejs, python, etc...).
+  Hello, my name's Kohei and I'm a fullstack developer (mobile apps, spring boot, nodejs, python, React, etc...).
   As well as developing mobile apps, I also have experience research in machine learning filed. 
   I am passionate to learn new things and like to share the knowledge.
   `Refactoring`, `TDD`, `DDD` interests me a lot.
