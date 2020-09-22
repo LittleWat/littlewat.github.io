@@ -1,7 +1,13 @@
 - layout: top-middle
+  name: Memorizing Team Generator (React with AWS Amplify App)
+  link: https://www.memo-team-gen.com/
+  quote: >
+    React and AWS Ampflify are used.
+  description: | # this will include new lines to allow paragraphs
+    I created this smart team generation app for people in charge of events such as the drinking party who need to break up the group. Source Code: https://github.com/LittleWat/memorizing-team-generator-public
+- layout: top-middle
   name: wisdomy (Book Management iPad App)
   link: https://apps.apple.com/jp/app/wisdomy/id1481673527
-  # github: sproogen/resume-theme
   quote: >
     Firebase, RxSwift(MVVM) were used
   description: | # this will include new lines to allow paragraphs
