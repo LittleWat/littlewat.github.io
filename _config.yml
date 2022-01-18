@@ -14,15 +14,18 @@ stackoverflow_username: "5986291"
 linkedin_username: kohei-watanabe-73990010b
 twitter_username: humilittle
 additional_links:
-  - title: hatena
-    url: https://littlewat.hatenadiary.jp/
-    icon: fa-blogger-b
-  - title: qiita
-    url: https://qiita.com/LittleWat
-    icon: fa-quora
   - title: google-scholar
     url: https://scholar.google.co.jp/citations?user=lejuP2AAAAAJ
     icon: fa-google
+  - title: medium
+    url: https://medium.com/@littlewat.dev
+    icon: fa-medium
+  - title: qiita
+    url: https://qiita.com/LittleWat
+    icon: fa-quora
+  - title: hatena
+    url: https://littlewat.hatenadiary.jp/
+    icon: fa-blogger-b
 
 # About Section
 # about_title: About Me
@@ -47,6 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
+
 
   Alongside my interests in software engineering some of my other interests and hobbies are:
    - Shogi (3-dan)

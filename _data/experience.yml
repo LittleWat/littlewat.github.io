@@ -4,8 +4,9 @@
   job_title: Fullstack Developer
   dates: September 2018 - Present
   description: | # this will include new lines to allow paragraphs
-    Developing [Home IoT app](https://www.au.com/auhome/).
+    Developed [Home IoT app](https://www.au.com/auhome/).
     Love to review codes and setup CI/CD systems.
+    Developing AI PoCs.
 
 - layout: left
   company: i'sFACTORY 
