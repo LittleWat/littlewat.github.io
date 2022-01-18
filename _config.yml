@@ -13,19 +13,17 @@ github_username: LittleWat
 stackoverflow_username: "5986291"
 linkedin_username: kohei-watanabe-73990010b
 twitter_username: humilittle
+googlescholar_username: lejuP2AAAAAJ
 additional_links:
-  - title: google-scholar
-    url: https://scholar.google.co.jp/citations?user=lejuP2AAAAAJ
-    icon: fa-google
   - title: medium
     url: https://medium.com/@littlewat.dev
-    icon: fa-medium
+    icon: fab fa-medium
   - title: qiita
     url: https://qiita.com/LittleWat
-    icon: fa-quora
+    icon: fab fa-quora
   - title: hatena
     url: https://littlewat.hatenadiary.jp/
-    icon: fa-blogger-b
+    icon: fab fa-blogger-b
 
 # About Section
 # about_title: About Me
