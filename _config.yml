@@ -31,15 +31,15 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name's Kohei and I'm a backend engineer who loves AI and serverless systems.
   As well as developing apps, I also have experience research in machine learning filed.
-  Google Scholar: https://scholar.google.com/citations?user=lejuP2AAAAAJ
-  
+
+  My google scholar link is <a href="https://scholar.google.com/citations?user=lejuP2AAAAAJ">https://scholar.google.com/citations?user=lejuP2AAAAAJ</a> 
+
   I am passionate to learn new things and like to share the knowledge.
   `Refactoring`, `TDD`, `DDD` interests me a lot.
 
-  I am most skilled in:  <mark>Cloud App Development</mark>, <mark>iOS App Development</mark>, <mark>Data Analysis (includes Deep Learning)</mark>, and <mark>Eating Ramen🍜</mark>.
+  I am most skilled in: <mark>Cloud App Development</mark>, <mark>Data Analysis (includes Deep Learning)</mark>, <mark>iOS App Development</mark>, and <mark>Eating Ramen(especially Tonkotsu)🍜</mark>.
 
-  Tech Stack: Python(advanced, especially usage of pandas), SQL(advanced), SpringBoot(middle),
-Node.js(middle), CI/CD(middle), iOS(middle), React(beginner), Android(beginner).
+  Tech Stack: Python(advanced, especially usage of pandas), SQL(advanced), SpringBoot(middle), Node.js(middle), CI/CD(middle), iOS(middle), React(beginner), Android(beginner).
 
 # Projects Section
 # projects_title: Projects
