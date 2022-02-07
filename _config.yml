@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Kohei Watanabe
-title: Fullstack Developer & (Past) Machine Learning Researcher
+title: Backend Engineer who loves AI & (Past) iOS Developer
 email: littlewat.dev@gmail.com
 # website: https://github.com/LittleWat
 
@@ -29,12 +29,17 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name's Kohei and I'm a fullstack developer (mobile apps, spring boot, nodejs, python, React, etc...).
-  As well as developing mobile apps, I also have experience research in machine learning filed. 
+  Hello, my name's Kohei and I'm a backend engineer who loves AI and serverless systems.
+  As well as developing apps, I also have experience research in machine learning filed.
+  Google Scholar: https://scholar.google.com/citations?user=lejuP2AAAAAJ
+  
   I am passionate to learn new things and like to share the knowledge.
   `Refactoring`, `TDD`, `DDD` interests me a lot.
 
-  I am most skilled in: <mark>iOS App Development</mark>, <mark>Data Analysis (includes Deep Learning)</mark>, <mark>AWS</mark> and <mark>Eating Ramen🍜</mark>.
+  I am most skilled in:  <mark>Cloud App Development</mark>, <mark>iOS App Development</mark>, <mark>Data Analysis (includes Deep Learning)</mark>, and <mark>Eating Ramen🍜</mark>.
+
+  Tech Stack: Python(advanced, especially usage of pandas), SQL(advanced), SpringBoot(middle),
+Node.js(middle), CI/CD(middle), iOS(middle), React(beginner), Android(beginner).
 
 # Projects Section
 # projects_title: Projects
@@ -53,7 +58,7 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in software engineering some of my other interests and hobbies are:
    - Shogi (3-dan)
    - Jogging (attended `Oume` Marathon)
-   - Netflix
+   - Netflix (loves Schitt's Creek, Modern Family, JOJO'S BIZARRE ADVENTURE, etc)
 
 # Footers
 footer_show_references: true
