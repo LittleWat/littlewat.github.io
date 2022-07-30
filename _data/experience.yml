@@ -1,8 +1,16 @@
 - layout: left
+  company: Woven Planet Holdings
+  link: https://www.woven-planet.global
+  job_title: Software Developer
+  dates: July 2022 - Present
+  description: | # this will include new lines to allow paragraphs
+    Developing City OS related things.
+    
+- layout: left
   company: KDDI
   link: https://www.kddi.com/
-  job_title: Fullstack Developer
-  dates: September 2018 - Present
+  job_title: Software Developer
+  dates: September 2018 - June 2022
   description: | # this will include new lines to allow paragraphs
     Developed [Home IoT app](https://www.au.com/auhome/).
     Love to review codes and setup CI/CD systems.
